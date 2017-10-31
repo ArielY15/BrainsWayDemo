@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 045ca7b5749491841ac6e00aa1524cd5
+timeCreated: 1482494261
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _set_screw___Extrude1__DC_Shell
+    100002: Chamfer1_DC_Shell
+    100004: //RootNode
+    100006: Cut_Extrude3_DC_Shell
+    100008: Draft2_DC_Shell
+    100010: Draft2_DC_Shell001
+    100012: Draft2_DC_Shell_MeshPart0
+    100014: Draft2_DC_Shell_MeshPart1
+    100016: Extrude14_DC_Shell
+    100018: Extrude3_DC_Shell
+    100020: Fillet1_DC_Shell
+    100022: Fillet62_DC_Shell
+    100024: Flat_Pattern1_DC_Shell
+    100026: Imported1_DC_Shell
+    100028: NONE_DC_Shell
+    100030: NONE_DC_Shell_MeshPart0
+    100032: NONE_DC_Shell_MeshPart1
+    100034: Tube001
+    100036: Tube002
+    100038: VarFillet5_DC_Shell
+    400000: _set_screw___Extrude1__DC_Shell
+    400002: Chamfer1_DC_Shell
+    400004: //RootNode
+    400006: Cut_Extrude3_DC_Shell
+    400008: Draft2_DC_Shell
+    400010: Draft2_DC_Shell001
+    400012: Draft2_DC_Shell_MeshPart0
+    400014: Draft2_DC_Shell_MeshPart1
+    400016: Extrude14_DC_Shell
+    400018: Extrude3_DC_Shell
+    400020: Fillet1_DC_Shell
+    400022: Fillet62_DC_Shell
+    400024: Flat_Pattern1_DC_Shell
+    400026: Imported1_DC_Shell
+    400028: NONE_DC_Shell
+    400030: NONE_DC_Shell_MeshPart0
+    400032: NONE_DC_Shell_MeshPart1
+    400034: Tube001
+    400036: Tube002
+    400038: VarFillet5_DC_Shell
+    2300000: _set_screw___Extrude1__DC_Shell
+    2300002: Chamfer1_DC_Shell
+    2300004: Cut_Extrude3_DC_Shell
+    2300006: Draft2_DC_Shell001
+    2300008: Draft2_DC_Shell_MeshPart0
+    2300010: Draft2_DC_Shell_MeshPart1
+    2300012: Extrude14_DC_Shell
+    2300014: Extrude3_DC_Shell
+    2300016: Fillet1_DC_Shell
+    2300018: Fillet62_DC_Shell
+    2300020: Flat_Pattern1_DC_Shell
+    2300022: Imported1_DC_Shell
+    2300024: NONE_DC_Shell_MeshPart0
+    2300026: NONE_DC_Shell_MeshPart1
+    2300028: Tube001
+    2300030: Tube002
+    2300032: VarFillet5_DC_Shell
+    3300000: _set_screw___Extrude1__DC_Shell
+    3300002: Chamfer1_DC_Shell
+    3300004: Cut_Extrude3_DC_Shell
+    3300006: Draft2_DC_Shell001
+    3300008: Draft2_DC_Shell_MeshPart0
+    3300010: Draft2_DC_Shell_MeshPart1
+    3300012: Extrude14_DC_Shell
+    3300014: Extrude3_DC_Shell
+    3300016: Fillet1_DC_Shell
+    3300018: Fillet62_DC_Shell
+    3300020: Flat_Pattern1_DC_Shell
+    3300022: Imported1_DC_Shell
+    3300024: NONE_DC_Shell_MeshPart0
+    3300026: NONE_DC_Shell_MeshPart1
+    3300028: Tube001
+    3300030: Tube002
+    3300032: VarFillet5_DC_Shell
+    4300000: _set_screw___Extrude1__DC_Shell
+    4300002: Chamfer1_DC_Shell
+    4300004: Cut_Extrude3_DC_Shell
+    4300006: Draft2_DC_Shell_MeshPart0
+    4300008: Draft2_DC_Shell_MeshPart1
+    4300010: Draft2_DC_Shell001
+    4300012: Extrude14_DC_Shell
+    4300014: Extrude3_DC_Shell
+    4300016: Fillet1_DC_Shell
+    4300018: Fillet62_DC_Shell
+    4300020: Flat_Pattern1_DC_Shell
+    4300022: Imported1_DC_Shell
+    4300024: NONE_DC_Shell_MeshPart0
+    4300026: NONE_DC_Shell_MeshPart1
+    4300028: Tube001
+    4300030: Tube002
+    4300032: VarFillet5_DC_Shell
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
